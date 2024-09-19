@@ -45,7 +45,10 @@ Dado a demanda da Escola Infinito, temos a tarefa de desenvolver um Sistema de P
 
 # Diagrama de Atividades
 
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*!
+[Diagrama de Atividades](https://github.com/user-attachments/assets/9586b148-2a71-49c1-a013-da98fd2efb67)
+
+
 
 # Diagrama de Casos de Uso
 
