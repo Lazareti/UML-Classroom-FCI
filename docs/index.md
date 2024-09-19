@@ -32,14 +32,11 @@ Dado a demanda da Escola Infinito, temos a tarefa de desenvolver um Sistema de P
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 - Requisitos Funcionais:
-  - Enviroment do responsavél
-  - Enviroment do professor 
   - Plataforma fácil e intuitiva.
   - Ter Login e Senha.
   - Gerar Relatorios de Faltas agrupados por data, ano de ensino turma, professor disciplina ou aluno.
   - Enviar notificações por email para os responsaveis em caso de faltas execissivas (presença < 80%).
   - Acessibilidade: garantir um sistema acessivel a toos os usuarios, incluindo pessoas com deficiencias, com recursos de acessibilidade como tamanho de fonte ajustavél.
-  - Enviroment separado por materia.
   - Acesso a partir de qualquer navegador web, inclusive em dispositivos móveis.
 - Não Funcionais:
   - Ter segurança para impedir acessos a dados sensiveis, ou acesso indevido possibilitando a alteração de dados.
