@@ -128,8 +128,7 @@ Dado a demanda da Escola Infinito, temos a tarefa de desenvolver um Sistema de P
 - Pais podem justificar a falta dos filhos com atestado
 
 ### Tabela da Descrição dos Casos de Uso
-![image](https://github.com/user-attachments/assets/6a11a1da-1610-47d0-81c8-6b6a5f79d436)
-
+![image](https://github.com/user-attachments/assets/682faec6-b493-4bba-90f9-032b742916cf)
 
 # Diagrama de Sequência
 
