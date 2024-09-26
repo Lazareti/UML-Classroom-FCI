@@ -126,7 +126,8 @@ Dado a demanda da Escola Infinito, temos a tarefa de desenvolver um Sistema de P
 - Professores e pais podem acessar o site pelo ID do aluno ou ID do professor
 - Pais e professores veem a quantidade de falta
 - Pais podem justificar a falta dos filhos com atestado
-###Tabela da Descrição dos Casos de Uso
+
+### Tabela da Descrição dos Casos de Uso
 ![image](https://github.com/user-attachments/assets/6a11a1da-1610-47d0-81c8-6b6a5f79d436)
 
 
