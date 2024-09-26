@@ -100,6 +100,32 @@ Dado a demanda da Escola Infinito, temos a tarefa de desenvolver um Sistema de P
 - O sistema busca os dados de e-mail dos pais/responsáveis.
 - O sistema envia a notificação por e-mail
 
+ ### Acessibilidae:
+
+**Ator: Sistema**
+
+**Descrição: Permite configurar as opções de acessibilidade e outras configurações do sistema.**
+
+**Fluxo básico:**
+- O administrador acessa a tela de configurações do sistema.
+- O administrador altera as configurações de fonte, contraste, notificações, entre outras na WEB ou no mobile
+- O sistema salva as configurações aplicadas.
+- O sistema permite modificar o registro de faltas
+
+### Qualquer Site/WEB:
+
+**Ator: Professor, Adm Sistema, Pais/Responsaveis**
+
+**Descrição: Permite configurar as opções de acessibilidade e outras configurações do sistema.**
+
+**Fluxo básico:**
+- O administrador acessa a tela de configurações do sistema.
+- O administrador coloca todas as faltas no sistema.
+- No sistema é possivel visualizar as notificacoes por aplicativo ou pelo site
+- Professores e pais podem acessar o site pelo ID do aluno ou ID do professor
+- Pais e professores veem a quantidade de falta
+- Pais podem justificar a falta dos filhos com atestado
+
 # Diagrama de Sequência
 
 *&lt;Diagrama de ordem e interação dos objetos&gt;*
