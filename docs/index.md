@@ -53,6 +53,7 @@ Dado a demanda da Escola Infinito, temos a tarefa de desenvolver um Sistema de P
 # Diagrama de Casos de Uso
 
 *&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+[Diagrama de caso de uso.pdf](https://github.com/user-attachments/files/17148878/Diagrama.de.caso.de.uso.pdf)
 
 # Descrição dos Casos de Uso
 
