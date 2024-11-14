@@ -132,7 +132,9 @@ Dado a demanda da Escola Infinito, temos a tarefa de desenvolver um Sistema de P
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+Sistema de chamada:
+![Diagrama de sequência básico](https://github.com/user-attachments/assets/29f2e8ed-cfb6-43f5-bac2-81bf66da6887)
+
 
 # Diagrama de Classes
 
