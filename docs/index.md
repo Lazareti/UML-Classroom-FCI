@@ -131,9 +131,11 @@ Dado a demanda da Escola Infinito, temos a tarefa de desenvolver um Sistema de P
 ![image](https://github.com/user-attachments/assets/682faec6-b493-4bba-90f9-032b742916cf)
 
 # Diagrama de Sequência
-
 Sistema de chamada:
 ![Diagrama de sequência básico](https://github.com/user-attachments/assets/29f2e8ed-cfb6-43f5-bac2-81bf66da6887)
+
+Gerador relatório:
+![Diagrama de sequência básico (1)](https://github.com/user-attachments/assets/f54bdc16-7d58-4701-8f74-0f2be5ecb073)
 
 
 # Diagrama de Classes
