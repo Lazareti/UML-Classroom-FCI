@@ -137,6 +137,8 @@ Sistema de chamada:
 Gerador relatório:
 ![Diagrama de sequência básico (1)](https://github.com/user-attachments/assets/f54bdc16-7d58-4701-8f74-0f2be5ecb073)
 
+E-mail automático(relatório):
+![Diagrama de sequência básico](https://github.com/user-attachments/assets/86441a49-7ad2-4a4e-bf98-ff772244f8b3)
 
 # Diagrama de Classes
 
