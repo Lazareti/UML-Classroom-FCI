@@ -141,8 +141,8 @@ E-mail automático(relatório):
 ![Diagrama de sequência básico](https://github.com/user-attachments/assets/86441a49-7ad2-4a4e-bf98-ff772244f8b3)
 
 # Diagrama de Classes
+![image](https://github.com/user-attachments/assets/cf22cd4e-9aeb-41cc-9bbb-21922da93fbd)
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
 
 # Diagrama de Estados
 
