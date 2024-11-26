@@ -143,6 +143,8 @@ E-mail automático(relatório):
 # Diagrama de Classes
 ![image](https://github.com/user-attachments/assets/cf22cd4e-9aeb-41cc-9bbb-21922da93fbd)
 
+#Diagrama de implantação 
+![image](https://github.com/user-attachments/assets/48bcf93c-a061-438d-b429-2316d62e6019)
 
 # Diagrama de Estados
 
