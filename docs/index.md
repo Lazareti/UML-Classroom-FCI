@@ -151,5 +151,5 @@ E-mail automático(relatório):
 *&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
 
 # Referências
-https://www.drawio.com/blog/uml-component-diagrams
-https://lucid.co
+- https://www.drawio.com/blog/uml-component-diagrams.
+- https://lucid.co.
