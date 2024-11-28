@@ -147,8 +147,8 @@ E-mail automático(relatório):
 ![image](https://github.com/user-attachments/assets/48bcf93c-a061-438d-b429-2316d62e6019)
 
 # Diagrama de Estados
+![image](https://github.com/user-attachments/assets/608dab04-368d-42a2-a99a-fd5a94d56f21)
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
 
 # Referências
 - https://www.drawio.com/blog/uml-component-diagrams
